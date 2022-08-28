@@ -10,6 +10,8 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 ## Tasks
 
+## endpoint URL for a running elastic beanstalk deployment: http://image-filter-starter-code.us-east-1.elasticbeanstalk.com/
+
 ### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
